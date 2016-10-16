@@ -2,7 +2,7 @@
 Xamarin app demonstrating the social network authentication and logged-in user info retrieval with Microsoft Mobile App Service.
 
 ## Project Objectives
-- Inspired by Ben Ishiyama-Levy's talk at Microsoft Singapore about authenticating and authorizing users with Microsoft Azure Mobile Apps;
+- Inspired by Xamarin Evangelist, Ben Ishiyama-Levy during [his talk at Microsoft Singapore](https://www.meetup.com/SingaporeMobileDev/events/234494626/) about authenticating and authorizing users with Microsoft Azure Mobile Apps;
 - Understand how to login user to an Xamarin app via social network such as Facebook, Google+, Twitter, and Microsoft Live;
 - Learn the deployment of Microsoft Azue Mobile Apps;
 - Get updated with the new Mobile Apps after [Microsoft plans to kill Azure Mobile Services in December 2016](http://venturebeat.com/2016/05/10/microsoft-killing-azure-mobile-services-in-december-will-migrate-sites-to-app-service-starting-september-1/).
