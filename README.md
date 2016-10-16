@@ -19,7 +19,7 @@ Xamarin app demonstrating the social network authentication and logged-in user i
 
 | ![Facebook Login](github-images/facebook-login.png?raw=true) | ![Google+ Login](github-images/google-plus-login.png?raw=true) | ![Twitter Login](github-images/twitter-login.png?raw=true) | ![Microsoft Live Login](github-images/microsoft-live-login.png?raw=true) | ![Retrieving User Info](github-images/retrieving-info.png?raw=true) |
 | --- | --- | --- | --- | --- |
-| Facebook | Google+ | Twitter | Microsoft Live | Retriving User Info |
+| Facebook | Google+ | Twitter | Microsoft Live | Retrieving User Info |
 
 ## Fields to Customize
 - BACKEND_APP_SERVICE_URL: Please setup one Azure App Service: Mobile App to get its URL. Put the URL in Burger/Resources/values.ApiKeys.xml;
