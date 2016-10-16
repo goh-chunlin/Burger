@@ -1,7 +1,7 @@
 # Burger
-Xamarin app demonstrating the social network authentication and logged-in user info retrieval with Microsoft Mobile App Service.
+This is a Xamarin app demonstrating the social network authentication and logged-in user info retrieval with Microsoft Mobile App Service.
 
-Inspired by Xamarin Evangelist, Ben Ishiyama-Levy during [his talk at Microsoft Singapore](https://www.meetup.com/SingaporeMobileDev/events/234494626/) about authenticating and authorizing users with Microsoft Azure Mobile Apps
+This app is inspired by Xamarin Evangelist, Ben Ishiyama-Levy during [his talk at Microsoft Singapore](https://www.meetup.com/SingaporeMobileDev/events/234494626/) about authenticating and authorizing users with Microsoft Azure Mobile Apps.
 
 ## Project Objectives
 - Understand how to login user to an Xamarin app via social network such as Facebook, Google+, Twitter, and Microsoft Live;
