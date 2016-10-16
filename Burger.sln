@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burger", "Burger\Burger.csproj", "{C565774E-7252-4782-9D79-9B7F4E4E1725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworkManagement", "SocialNetworkManagement\SocialNetworkManagement.csproj", "{2F6C3E63-37C0-4D25-B4B6-43C65C78A48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burgerappService", "burgerappService\burgerappService.csproj", "{209FA716-A7AD-4095-BD70-C8710FC66FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C565774E-7252-4782-9D79-9B7F4E4E1725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C565774E-7252-4782-9D79-9B7F4E4E1725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C565774E-7252-4782-9D79-9B7F4E4E1725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C565774E-7252-4782-9D79-9B7F4E4E1725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6C3E63-37C0-4D25-B4B6-43C65C78A48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6C3E63-37C0-4D25-B4B6-43C65C78A48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6C3E63-37C0-4D25-B4B6-43C65C78A48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6C3E63-37C0-4D25-B4B6-43C65C78A48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209FA716-A7AD-4095-BD70-C8710FC66FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
